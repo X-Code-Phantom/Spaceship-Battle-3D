@@ -1,0 +1,19 @@
+{
+    "name": "SpaceshipBattle3D.Tests.EditMode",
+    "rootNamespace": "",
+    "references": [
+        "GUID:d6dc28935caebdf408f19dd198d782ae",
+        "GUID:addb8e89557bfae45978394d56a1ef75"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
